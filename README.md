@@ -32,6 +32,11 @@
 |난이도|문제|링크|
 |:----:|:-----:|:---:|
 |하하|직사각형 별찍기|https://programmers.co.kr/learn/courses/30/lessons/12969|✔|
+|하하|짝수와 홀수|https://programmers.co.kr/learn/courses/30/lessons/12937|✔|
+|하|가운데 글자 가져오기|https://programmers.co.kr/learn/courses/30/lessons/12903|✔|
+|하|두 정수 사이의 합|https://programmers.co.kr/learn/courses/30/lessons/12912|✔|
+
+|하|문자열을 숫자열로 바꾸기|짝수와 홀수|https://programmers.co.kr/learn/courses/30/lessons/12925|✔|
 
 
 
