@@ -6,10 +6,12 @@
         <th colspan=5>💻🙎‍♂스터디원</th>
     </tr>
     <tr>
+        <td><a href='https://github.com/lky8967'>임나리</a></td>
         <td><a href='https://github.com/lky8967'>이정우</a></td>
-        <td><a href='https://github.com/lky8967'>이정우</a></td>
-        <td><a href='https://github.com/lky8967'>이정우</a></td>
-        <td><a href='https://github.com/lky8967'>이정우</a></td>
+        <td><a href='https://github.com/lky8967'>조성익</a></td>
+        <td><a href='https://github.com/lky8967'>황윤정</a></td>
+        
+        
         
         
       
@@ -35,8 +37,10 @@
 |하하|짝수와 홀수|https://programmers.co.kr/learn/courses/30/lessons/12937|✔|
 |하|가운데 글자 가져오기|https://programmers.co.kr/learn/courses/30/lessons/12903|✔|
 |하|두 정수 사이의 합|https://programmers.co.kr/learn/courses/30/lessons/12912|✔|
-
 |하|문자열을 숫자열로 바꾸기|짝수와 홀수|https://programmers.co.kr/learn/courses/30/lessons/12925|✔|
+|하|없는 숫자 더하기|https://programmers.co.kr/learn/courses/30/lessons/86051|✔|
+|하|음양 더하기|https://programmers.co.kr/learn/courses/30/lessons/76501|✔|
+|하|평균 구하기|https://programmers.co.kr/learn/courses/30/lessons/12944|✔|
 
 
 
