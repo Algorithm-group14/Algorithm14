@@ -6,7 +6,7 @@
         <th colspan=5>💻🙎‍♂스터디원</th>
     </tr>
     <tr>
-        <td><a href='https://github.com/lky8967'>임나리</a></td>
+        <td><a href='https://github.com/ME-NaRi'>임나리</a></td>
         <td><a href='https://github.com/lky8967'>이정우</a></td>
         <td><a href='https://github.com/ik7719'>조성익</a></td>
         <td><a href='https://github.com/redcarrot-h'>황윤정</a></td>
