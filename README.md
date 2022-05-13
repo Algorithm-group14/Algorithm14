@@ -3,9 +3,12 @@
 
 <table>
     <tr>
-         <th colspan=5>💻🙎‍♂스터디원</th>
+        <th colspan=5>💻🙎‍♂스터디원</th>
     </tr>
     <tr>
+        <td><a href='https://github.com/lky8967'>이정우</a></td>
+        <td><a href='https://github.com/lky8967'>이정우</a></td>
+        <td><a href='https://github.com/lky8967'>이정우</a></td>
         <td><a href='https://github.com/lky8967'>이정우</a></td>
         
         
